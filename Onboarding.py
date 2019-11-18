@@ -6,7 +6,6 @@ while 1:
     dist_2 = int(input())  # distance to enemy 2
 
     # Write an action using print
-
     # Enter the code here  
     if dist_1 < dist_2:
         print(enemy_1)
